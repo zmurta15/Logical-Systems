@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="Xst" num="1561" delta="new" >&quot;<arg fmt="%s" index="1">/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Trabfinal/disp_basys2_SL.vhd</arg>&quot; line <arg fmt="%d" index="2">61</arg>: Mux is complete : default of case is discarded
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf</arg>&quot; line <arg fmt="%d" index="2">1504</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">OFL</arg>&apos; of component &apos;<arg fmt="%s" index="4">ADD8_MXILINX_Sistema</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf</arg>&quot; line <arg fmt="%d" index="2">1512</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">CO</arg>&apos; of component &apos;<arg fmt="%s" index="4">ADSU8_MXILINX_Sistema</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf</arg>&quot; line <arg fmt="%d" index="2">1512</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">OFL</arg>&apos; of component &apos;<arg fmt="%s" index="4">ADSU8_MXILINX_Sistema</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">XLXN_89</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">dummy</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">dummy</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">dummy</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">XLXI_2_D3_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">XLXI_1_D3_openSignal</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="new" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_3/I0</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="new" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_3/I1</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="new" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_3/I2</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="new" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_3/I3</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="new" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_3/I4</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="new" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_3/I5</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+<msg type="warning" file="Xst" num="387" delta="new" >The KEEP property attached to the net &lt;<arg fmt="%s" index="1">XLXI_2/XLXI_1/XLXI_3/I6</arg>&gt; may hinder timing optimization.
+You may achieve better results by removing this property
+</msg>
+
+</messages>
+

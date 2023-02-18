@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.xst" -ofn "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Trabfinal/pins.ucf -p xc3s250e-cp132-5 Sistema.ngc Sistema.ngd  
+map -intstyle ise -p xc3s250e-cp132-5 -cm area -ir off -pr off -c 100 -o Sistema_map.ncd Sistema.ngd Sistema.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Trabfinal/pins.ucf -p xc3s250e-cp132-5 Sistema.ngc Sistema.ngd  
+map -intstyle ise -p xc3s250e-cp132-5 -cm area -ir off -pr off -c 100 -o Sistema_map.ncd Sistema.ngd Sistema.pcf 
+par -w -intstyle ise -ol high -t 1 Sistema_map.ncd Sistema.ncd Sistema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Sistema.twx Sistema.ncd -o Sistema.twr Sistema.pcf 
+bitgen -intstyle ise -f Sistema.ut Sistema.ncd 

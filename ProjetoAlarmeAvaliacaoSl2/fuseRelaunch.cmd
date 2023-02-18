@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema_Sistema_sch_tb_isim_beh.exe" -prj "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema_Sistema_sch_tb_beh.prj" "work.Sistema_Sistema_sch_tb" 

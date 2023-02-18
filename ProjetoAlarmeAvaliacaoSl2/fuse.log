@@ -1,0 +1,83 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin/unwrapped/fuse -intstyle ise -incremental -o /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema_Sistema_sch_tb_isim_beh.exe -prj /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema_Sistema_sch_tb_beh.prj work.Sistema_Sistema_sch_tb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/REGi.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m4_1_8bit.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/e4_2.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Z.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m2_1_8bit.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/C.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Trabfinal/disp_basys2_SL.vhd" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/EsquematicoProjetoAvaliacaoSL2.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf" into library work
+Parsing VHDL file "/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/teste_sistema.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 48596 KB
+Fuse CPU Usage: 2080 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity disp_basys2SL [disp_basys2sl_default]
+Compiling architecture and3_v of entity AND3 [and3_default]
+Compiling architecture and3b1_v of entity AND3B1 [and3b1_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture behavioral of entity M2_1E_MXILINX_Sistema [m2_1e_mxilinx_sistema_default]
+Compiling architecture muxf5_v of entity MUXF5 [muxf5_default]
+Compiling architecture behavioral of entity M4_1E_MXILINX_Sistema [m4_1e_mxilinx_sistema_default]
+Compiling architecture buf_v of entity BUF [buf_default]
+Compiling architecture vcc_v of entity VCC [vcc_default]
+Compiling architecture behavioral of entity m4_1_8bit_MUSER_Sistema [m4_1_8bit_muser_sistema_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture nand3_v of entity NAND3 [nand3_default]
+Compiling architecture nand4_v of entity NAND4 [nand4_default]
+Compiling architecture nand2_v of entity NAND2 [nand2_default]
+Compiling architecture behavioral of entity e4_2_MUSER_Sistema [e4_2_muser_sistema_default]
+Compiling architecture fmap_v of entity FMAP [fmap_default]
+Compiling architecture muxcy_l_v of entity MUXCY_L [muxcy_l_default]
+Compiling architecture muxcy_v of entity MUXCY [muxcy_default]
+Compiling architecture xorcy_v of entity XORCY [xorcy_default]
+Compiling architecture muxcy_d_v of entity MUXCY_D [muxcy_d_default]
+Compiling architecture xor2_v of entity XOR2 [xor2_default]
+Compiling architecture behavioral of entity ADD8_MXILINX_Sistema [add8_mxilinx_sistema_default]
+Compiling architecture xor3_v of entity XOR3 [xor3_default]
+Compiling architecture behavioral of entity ADSU8_MXILINX_Sistema [adsu8_mxilinx_sistema_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture behavioral of entity ULA_MUSER_Sistema [ula_muser_sistema_default]
+Compiling architecture fd_v of entity FD [\FD('0')\]
+Compiling architecture behavioral of entity REGi_MUSER_Sistema [regi_muser_sistema_default]
+Compiling architecture behavioral of entity TEMP_MUSER_Sistema [temp_muser_sistema_default]
+Compiling architecture and4_v of entity AND4 [and4_default]
+Compiling architecture behavioral of entity AND8_MXILINX_Sistema [and8_mxilinx_sistema_default]
+Compiling architecture behavioral of entity Z_MUSER_Sistema [z_muser_sistema_default]
+Compiling architecture fdr_v of entity FDR [\FDR('0')\]
+Compiling architecture behavioral of entity C_MUSER_Sistema [c_muser_sistema_default]
+Compiling architecture and2b1_v of entity AND2B1 [and2b1_default]
+Compiling architecture behavioral of entity M2_1_MXILINX_Sistema [m2_1_mxilinx_sistema_default]
+Compiling architecture behavioral of entity m2_1_8bit_MUSER_Sistema [m2_1_8bit_muser_sistema_default]
+Compiling architecture behavioral of entity Dados_MUSER_Sistema [dados_muser_sistema_default]
+Compiling architecture fdc_v of entity FDC [\FDC('0')\]
+Compiling architecture and3b2_v of entity AND3B2 [and3b2_default]
+Compiling architecture or3_v of entity OR3 [or3_default]
+Compiling architecture behavioral of entity FJKC_MXILINX_EsquematicoProjetoAvaliacaoSL2 [\FJKC_MXILINX_EsquematicoProjeto...]
+Compiling architecture or3b3_v of entity OR3B3 [or3b3_default]
+Compiling architecture and2b2_v of entity AND2B2 [and2b2_default]
+Compiling architecture and3b3_v of entity AND3B3 [and3b3_default]
+Compiling architecture behavioral of entity EsquematicoProjetoAvaliacaoSL2 [esquematicoprojetoavaliacaosl2_d...]
+Compiling architecture behavioral of entity Sistema [sistema_default]
+Compiling architecture behavioral of entity sistema_sistema_sch_tb
+Time Resolution for simulation is 1ps.
+Compiled 103 VHDL Units
+Built simulation executable /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema_Sistema_sch_tb_isim_beh.exe
+Fuse Memory Usage: 67456 KB
+Fuse CPU Usage: 2470 ms
+GCC CPU Usage: 2350 ms

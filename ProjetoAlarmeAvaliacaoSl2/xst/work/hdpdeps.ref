@@ -1,0 +1,423 @@
+V3 200
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf 2018/12/11.20:07:18 P.20131013
+EN work/M2_1_MXILINX_Dados 1544558949 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1_MXILINX_Dados/BEHAVIORAL 1544558950 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/M2_1_MXILINX_Dados 1544558949 CP AND2B1 CP OR2 CP AND2
+EN work/m2_1_8bit_MUSER_Dados 1544558951 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/m2_1_8bit_MUSER_Dados/BEHAVIORAL 1544558952 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/m2_1_8bit_MUSER_Dados 1544558951 CP BUF CP M2_1_MXILINX_Dados
+EN work/M2_1E_MXILINX_Dados 1544558953 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1E_MXILINX_Dados/BEHAVIORAL 1544558954 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/M2_1E_MXILINX_Dados 1544558953 CP AND3 CP AND3B1 CP OR2
+EN work/M4_1E_MXILINX_Dados 1544558955 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M4_1E_MXILINX_Dados/BEHAVIORAL 1544558956 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/M4_1E_MXILINX_Dados 1544558955 CP M2_1E_MXILINX_Dados CP MUXF5
+EN work/C_MUSER_Dados 1544558957 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/C_MUSER_Dados/BEHAVIORAL 1544558958 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/C_MUSER_Dados 1544558957 CP M4_1E_MXILINX_Dados CP VCC CP FDR CP INV
+EN work/ADD8_MXILINX_Dados 1544558959 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ADD8_MXILINX_Dados/BEHAVIORAL 1544558960 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/ADD8_MXILINX_Dados 1544558959 CP FMAP CP MUXCY_L CP MUXCY CP XORCY \
+      CP MUXCY_D CP XOR2
+EN work/ADSU8_MXILINX_Dados 1544558961 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ADSU8_MXILINX_Dados/BEHAVIORAL 1544558962 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/ADSU8_MXILINX_Dados 1544558961 CP FMAP CP XOR3 CP MUXCY_L CP MUXCY \
+      CP XORCY CP MUXCY_D CP INV CP XOR2
+EN work/e4_2_MUSER_Dados 1544558963 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/e4_2_MUSER_Dados/BEHAVIORAL 1544558964 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/e4_2_MUSER_Dados 1544558963 CP INV CP NAND3 CP NAND4 CP NAND2 CP OR2
+EN work/m4_1_8bit_MUSER_Dados 1544558965 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/m4_1_8bit_MUSER_Dados/BEHAVIORAL 1544558966 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/m4_1_8bit_MUSER_Dados 1544558965 CP M4_1E_MXILINX_Dados CP BUF CP VCC
+EN work/ULA_MUSER_Dados 1544558967 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ULA_MUSER_Dados/BEHAVIORAL 1544558968 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/ULA_MUSER_Dados 1544558967 CP m4_1_8bit_MUSER_Dados \
+      CP e4_2_MUSER_Dados CP ADD8_MXILINX_Dados CP ADSU8_MXILINX_Dados CP AND2 \
+      CP GND
+EN work/AND8_MXILINX_Dados 1544558969 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/AND8_MXILINX_Dados/BEHAVIORAL 1544558970 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/AND8_MXILINX_Dados 1544558969 CP FMAP CP AND4 CP AND2
+EN work/Z_MUSER_Dados 1544558971 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Z_MUSER_Dados/BEHAVIORAL 1544558972 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/Z_MUSER_Dados 1544558971 CP AND8_MXILINX_Dados CP INV
+EN work/REGi_MUSER_Dados 1544558973 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/REGi_MUSER_Dados/BEHAVIORAL 1544558974 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/REGi_MUSER_Dados 1544558973 CP M4_1E_MXILINX_Dados CP FD CP VCC CP GND
+EN work/TEMP_MUSER_Dados 1544558975 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/TEMP_MUSER_Dados/BEHAVIORAL 1544558976 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      EN work/TEMP_MUSER_Dados 1544558975 CP REGi_MUSER_Dados
+EN work/Dados 1544558977 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Dados/BEHAVIORAL 1544558978 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Dados.vhf EN work/Dados 1544558977 \
+      CP ULA_MUSER_Dados CP TEMP_MUSER_Dados CP Z_MUSER_Dados CP C_MUSER_Dados \
+      CP m2_1_8bit_MUSER_Dados
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/e4_2.vhf 2018/12/11.20:07:16 P.20131013
+EN work/e4_2 1544559009 FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/e4_2.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/e4_2/BEHAVIORAL 1544559010 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/e4_2.vhf EN work/e4_2 1544559009 \
+      CP INV CP NAND3 CP NAND4 CP NAND2 CP OR2
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/EsquematicoProjetoAvaliacaoSL2.vhf 2018/12/11.19:39:22 P.20131013
+EN work/FJKC_MXILINX_EsquematicoProjetoAvaliacaoSL2 1544558913 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/EsquematicoProjetoAvaliacaoSL2.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FJKC_MXILINX_EsquematicoProjetoAvaliacaoSL2/BEHAVIORAL 1544558914 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/EsquematicoProjetoAvaliacaoSL2.vhf \
+      EN work/FJKC_MXILINX_EsquematicoProjetoAvaliacaoSL2 1544558913 CP FDC \
+      CP AND3B2 CP AND3B1 CP OR3 CP AND2B1
+EN work/EsquematicoProjetoAvaliacaoSL2 1544558915 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/EsquematicoProjetoAvaliacaoSL2.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/EsquematicoProjetoAvaliacaoSL2/BEHAVIORAL 1544558916 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/EsquematicoProjetoAvaliacaoSL2.vhf \
+      EN work/EsquematicoProjetoAvaliacaoSL2 1544558915 \
+      CP FJKC_MXILINX_EsquematicoProjetoAvaliacaoSL2 CP AND2 CP AND3B1 CP OR2 \
+      CP AND2B1 CP OR3 CP OR3B3 CP AND2B2 CP AND3B3 CP AND3
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m2_1_8bit.vhf 2018/12/11.20:07:17 P.20131013
+EN work/M2_1_MXILINX_m2_1_8bit 1544558979 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m2_1_8bit.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1_MXILINX_m2_1_8bit/BEHAVIORAL 1544558980 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m2_1_8bit.vhf \
+      EN work/M2_1_MXILINX_m2_1_8bit 1544558979 CP AND2B1 CP OR2 CP AND2
+EN work/m2_1_8bit 1544558981 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m2_1_8bit.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/m2_1_8bit/BEHAVIORAL 1544558982 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m2_1_8bit.vhf \
+      EN work/m2_1_8bit 1544558981 CP BUF CP M2_1_MXILINX_m2_1_8bit
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m4_1_8bit.vhf 2018/12/11.20:07:17 P.20131013
+EN work/M2_1E_MXILINX_m4_1_8bit 1544559011 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m4_1_8bit.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1E_MXILINX_m4_1_8bit/BEHAVIORAL 1544559012 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m4_1_8bit.vhf \
+      EN work/M2_1E_MXILINX_m4_1_8bit 1544559011 CP AND3 CP AND3B1 CP OR2
+EN work/M4_1E_MXILINX_m4_1_8bit 1544559013 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m4_1_8bit.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M4_1E_MXILINX_m4_1_8bit/BEHAVIORAL 1544559014 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m4_1_8bit.vhf \
+      EN work/M4_1E_MXILINX_m4_1_8bit 1544559013 CP M2_1E_MXILINX_m4_1_8bit \
+      CP MUXF5
+EN work/m4_1_8bit 1544559015 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m4_1_8bit.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/m4_1_8bit/BEHAVIORAL 1544559016 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/m4_1_8bit.vhf \
+      EN work/m4_1_8bit 1544559015 CP M4_1E_MXILINX_m4_1_8bit CP BUF CP VCC
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/REGi.vhf 2018/12/11.20:07:17 P.20131013
+EN work/M2_1E_MXILINX_REGi 1544559017 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/REGi.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1E_MXILINX_REGi/BEHAVIORAL 1544559018 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/REGi.vhf \
+      EN work/M2_1E_MXILINX_REGi 1544559017 CP AND3 CP AND3B1 CP OR2
+EN work/M4_1E_MXILINX_REGi 1544559019 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/REGi.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M4_1E_MXILINX_REGi/BEHAVIORAL 1544559020 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/REGi.vhf \
+      EN work/M4_1E_MXILINX_REGi 1544559019 CP M2_1E_MXILINX_REGi CP MUXF5
+EN work/REGi 1544559021 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/REGi.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/REGi/BEHAVIORAL 1544559022 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/REGi.vhf EN work/REGi 1544559021 \
+      CP M4_1E_MXILINX_REGi CP FD CP VCC CP GND
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf 2018/12/11.20:07:17 P.20131013
+EN work/M2_1_MXILINX_Sistema 1544558917 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1_MXILINX_Sistema/BEHAVIORAL 1544558918 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/M2_1_MXILINX_Sistema 1544558917 CP AND2B1 CP OR2 CP AND2
+EN work/m2_1_8bit_MUSER_Sistema 1544558919 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/m2_1_8bit_MUSER_Sistema/BEHAVIORAL 1544558920 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/m2_1_8bit_MUSER_Sistema 1544558919 CP BUF CP M2_1_MXILINX_Sistema
+EN work/M2_1E_MXILINX_Sistema 1544558921 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1E_MXILINX_Sistema/BEHAVIORAL 1544558922 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/M2_1E_MXILINX_Sistema 1544558921 CP AND3 CP AND3B1 CP OR2
+EN work/M4_1E_MXILINX_Sistema 1544558923 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M4_1E_MXILINX_Sistema/BEHAVIORAL 1544558924 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/M4_1E_MXILINX_Sistema 1544558923 CP M2_1E_MXILINX_Sistema CP MUXF5
+EN work/C_MUSER_Sistema 1544558925 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/C_MUSER_Sistema/BEHAVIORAL 1544558926 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/C_MUSER_Sistema 1544558925 CP M4_1E_MXILINX_Sistema CP VCC CP FDR \
+      CP INV
+EN work/ADD8_MXILINX_Sistema 1544558927 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ADD8_MXILINX_Sistema/BEHAVIORAL 1544558928 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/ADD8_MXILINX_Sistema 1544558927 CP FMAP CP MUXCY_L CP MUXCY CP XORCY \
+      CP MUXCY_D CP XOR2
+EN work/ADSU8_MXILINX_Sistema 1544558929 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ADSU8_MXILINX_Sistema/BEHAVIORAL 1544558930 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/ADSU8_MXILINX_Sistema 1544558929 CP FMAP CP XOR3 CP MUXCY_L CP MUXCY \
+      CP XORCY CP MUXCY_D CP INV CP XOR2
+EN work/e4_2_MUSER_Sistema 1544558931 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/e4_2_MUSER_Sistema/BEHAVIORAL 1544558932 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/e4_2_MUSER_Sistema 1544558931 CP INV CP NAND3 CP NAND4 CP NAND2 CP OR2
+EN work/m4_1_8bit_MUSER_Sistema 1544558933 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/m4_1_8bit_MUSER_Sistema/BEHAVIORAL 1544558934 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/m4_1_8bit_MUSER_Sistema 1544558933 CP M4_1E_MXILINX_Sistema CP BUF \
+      CP VCC
+EN work/ULA_MUSER_Sistema 1544558935 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ULA_MUSER_Sistema/BEHAVIORAL 1544558936 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/ULA_MUSER_Sistema 1544558935 CP m4_1_8bit_MUSER_Sistema \
+      CP e4_2_MUSER_Sistema CP ADD8_MXILINX_Sistema CP ADSU8_MXILINX_Sistema \
+      CP AND2 CP GND
+EN work/AND8_MXILINX_Sistema 1544558937 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/AND8_MXILINX_Sistema/BEHAVIORAL 1544558938 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/AND8_MXILINX_Sistema 1544558937 CP FMAP CP AND4 CP AND2
+EN work/Z_MUSER_Sistema 1544558939 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Z_MUSER_Sistema/BEHAVIORAL 1544558940 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/Z_MUSER_Sistema 1544558939 CP AND8_MXILINX_Sistema CP INV
+EN work/REGi_MUSER_Sistema 1544558941 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/REGi_MUSER_Sistema/BEHAVIORAL 1544558942 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/REGi_MUSER_Sistema 1544558941 CP M4_1E_MXILINX_Sistema CP FD CP VCC \
+      CP GND
+EN work/TEMP_MUSER_Sistema 1544558943 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/TEMP_MUSER_Sistema/BEHAVIORAL 1544558944 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/TEMP_MUSER_Sistema 1544558943 CP REGi_MUSER_Sistema
+EN work/Dados_MUSER_Sistema 1544558945 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Dados_MUSER_Sistema/BEHAVIORAL 1544558946 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      EN work/Dados_MUSER_Sistema 1544558945 CP ULA_MUSER_Sistema \
+      CP TEMP_MUSER_Sistema CP Z_MUSER_Sistema CP C_MUSER_Sistema \
+      CP m2_1_8bit_MUSER_Sistema
+EN work/Sistema 1544558947 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Sistema/BEHAVIORAL 1544558948 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.vhf EN work/Sistema 1544558947 \
+      CP disp_basys2SL CP Dados_MUSER_Sistema CP GND \
+      CP EsquematicoProjetoAvaliacaoSL2 CP VCC
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf 2018/12/11.20:07:18 P.20131013
+EN work/M2_1E_MXILINX_TEMP 1544558983 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1E_MXILINX_TEMP/BEHAVIORAL 1544558984 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf \
+      EN work/M2_1E_MXILINX_TEMP 1544558983 CP AND3 CP AND3B1 CP OR2
+EN work/M4_1E_MXILINX_TEMP 1544558985 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M4_1E_MXILINX_TEMP/BEHAVIORAL 1544558986 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf \
+      EN work/M4_1E_MXILINX_TEMP 1544558985 CP M2_1E_MXILINX_TEMP CP MUXF5
+EN work/REGi_MUSER_TEMP 1544558987 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/REGi_MUSER_TEMP/BEHAVIORAL 1544558988 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf \
+      EN work/REGi_MUSER_TEMP 1544558987 CP M4_1E_MXILINX_TEMP CP FD CP VCC CP GND
+EN work/TEMP 1544558989 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/TEMP/BEHAVIORAL 1544558990 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/TEMP.vhf EN work/TEMP 1544558989 \
+      CP REGi_MUSER_TEMP
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Trabfinal/disp_basys2_SL.vhd 2014/09/21.20:29:50 P.20131013
+EN work/disp_basys2SL 1544558911 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Trabfinal/disp_basys2_SL.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/disp_basys2SL/Behavioral 1544558912 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Trabfinal/disp_basys2_SL.vhd \
+      EN work/disp_basys2SL 1544558911
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf 2018/12/11.20:07:19 P.20131013
+EN work/ADD8_MXILINX_ULA 1544558991 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ADD8_MXILINX_ULA/BEHAVIORAL 1544558992 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      EN work/ADD8_MXILINX_ULA 1544558991 CP FMAP CP MUXCY_L CP MUXCY CP XORCY \
+      CP MUXCY_D CP XOR2
+EN work/ADSU8_MXILINX_ULA 1544558993 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ADSU8_MXILINX_ULA/BEHAVIORAL 1544558994 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      EN work/ADSU8_MXILINX_ULA 1544558993 CP FMAP CP XOR3 CP MUXCY_L CP MUXCY \
+      CP XORCY CP MUXCY_D CP INV CP XOR2
+EN work/e4_2_MUSER_ULA 1544558995 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/e4_2_MUSER_ULA/BEHAVIORAL 1544558996 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      EN work/e4_2_MUSER_ULA 1544558995 CP INV CP NAND3 CP NAND4 CP NAND2 CP OR2
+EN work/M2_1E_MXILINX_ULA 1544558997 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M2_1E_MXILINX_ULA/BEHAVIORAL 1544558998 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      EN work/M2_1E_MXILINX_ULA 1544558997 CP AND3 CP AND3B1 CP OR2
+EN work/M4_1E_MXILINX_ULA 1544558999 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/M4_1E_MXILINX_ULA/BEHAVIORAL 1544559000 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      EN work/M4_1E_MXILINX_ULA 1544558999 CP M2_1E_MXILINX_ULA CP MUXF5
+EN work/m4_1_8bit_MUSER_ULA 1544559001 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/m4_1_8bit_MUSER_ULA/BEHAVIORAL 1544559002 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      EN work/m4_1_8bit_MUSER_ULA 1544559001 CP M4_1E_MXILINX_ULA CP BUF CP VCC
+EN work/ULA 1544559003 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ULA/BEHAVIORAL 1544559004 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/ULA.vhf EN work/ULA 1544559003 \
+      CP m4_1_8bit_MUSER_ULA CP e4_2_MUSER_ULA CP ADD8_MXILINX_ULA \
+      CP ADSU8_MXILINX_ULA CP AND2 CP GND
+FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Z.vhf 2018/12/11.20:07:18 P.20131013
+EN work/AND8_MXILINX_Z 1544559005 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Z.vhf PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/AND8_MXILINX_Z/BEHAVIORAL 1544559006 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Z.vhf EN work/AND8_MXILINX_Z 1544559005 \
+      CP FMAP CP AND4 CP AND2
+EN work/Z 1544559007 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Z.vhf PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Z/BEHAVIORAL 1544559008 \
+      FL /home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Z.vhf EN work/Z 1544559007 \
+      CP AND8_MXILINX_Z CP INV

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.ncd
+OUTFILE=/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2/Sistema.bit
+FAMILY=Spartan3E
+PART=xc3s250e-5cp132
+WORKINGDIR=/home/sl/Desktop/ProjetoAlarmeAvaliacaoSl2
+LICENSE=WebPack
+USER_INFO=210809169_0_0_133
